@@ -37,6 +37,7 @@
 - [TradeGecko](https://www.tradegecko.com/) - cloud based inventory and order management software for modern online businesses.
 - [WordTree](https://www.wordtree.io/) - keyword tools to grow your search traffic, research your competitors, and monitor your niche.
 - [xSellco](https://www.xsellco.com/) - centralize customer queries, target positive feedback by requesting reviews from happy customers, automatically reprice.
+- [Zonmaster](https://www.zonmaster.com/) - software for merchants to boost their Amazon business, repair feedback, improve product reviews, and automate high-volume emails. View all your sales & profit data from different merchant accounts from one dashboard.
 
 ## Podcasts
 
